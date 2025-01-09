@@ -3,8 +3,6 @@
 
 
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Kurumi&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kurumi&theme=omni&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurumi&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer)
+
 
