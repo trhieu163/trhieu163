@@ -6,5 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub+Profile!)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kawaii+Script&size=30&color=FF69B4&width=500&lines=Welcome+to+my+Kurumi+🐾;I+love+coding+and+anime!+🌸)
+![Anime](https://img.shields.io/badge/Love-Anime-red?style=flat-square&logo=google-chrome&logoColor=pink)
+![Manga](https://img.shields.io/badge/-Manga%20Reader-orange?style=flat-square&logo=book&logoColor=white)
+![Genshin Impact](https://img.shields.io/badge/-Genshin%20Impact-blue?style=flat-square&logo=gamepad&logoColor=white)
 
