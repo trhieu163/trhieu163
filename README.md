@@ -10,5 +10,3 @@
 ![Manga](https://img.shields.io/badge/-Manga%20Reader-orange?style=flat-square&logo=book&logoColor=white)
 ![Genshin Impact](https://img.shields.io/badge/-Genshin%20Impact-blue?style=flat-square&logo=gamepad&logoColor=white)
 
-### 🌸 Waifu of the Day:
-![Random Waifu](https://waifu.pics/api/sfw/waifu)
